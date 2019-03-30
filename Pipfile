@@ -15,6 +15,12 @@ matplotlib = "*"
 pylint = "*"
 pytest = "*"
 pyyaml = "*"
+beautifulsoup4 = "*"
+urllib2 = "*"
+requests = "*"
+json = "*"
+selenium = "*"
+urllib = "*"
 
 [requires]
 python_version = "3.6"
