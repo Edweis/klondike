@@ -31,6 +31,10 @@ markovitch(Portefeuille, learningRange) -> (Volatility, ExpectedReturn)
 ## 5. Mise en place
  -  Structure juridique pour acheter et vendre des ETF
 
-# Python & finance
-## Sources
+# Sources
+## Python & finance
 (Introduction de la bourse visualisée en python)[https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/]
+
+## Administration des ETF
+https://www.etf.com/publications/journalofindexes/joi-articles/2305.html?nopaging=1
+https://investisseur-individuel.com/une-strategie-alternative-pour-gagner-en-bourse-les-etf/
