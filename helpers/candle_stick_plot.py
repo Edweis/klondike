@@ -1,6 +1,8 @@
 from matplotlib.dates import DateFormatter, WeekdayLocator,\
     DayLocator, MONDAY
-from matplotlib.mpl_finance import candlestick2_ochl
+from mpl_finance import candlestick2_ochl
+import matplotlib.pyplot as plt
+import pandas as pd
  
 def plot_candle_stick(dat, stick = "day", otherseries = None):
     """

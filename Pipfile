@@ -21,6 +21,8 @@ requests = "*"
 json = "*"
 selenium = "*"
 urllib = "*"
+mpl-finance = {file = "https://github.com/matplotlib/mpl_finance/archive/master.zip"}
+tkinter = "*"
 
 [requires]
 python_version = "3.6"
