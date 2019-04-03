@@ -34,6 +34,7 @@ markovitch(Portefeuille, learningRange) -> (Volatility, ExpectedReturn)
 # Sources
 ## Python & finance
 (Introduction de la bourse visualisée en python)[https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/]
+(Régréssion linéaire simple sur des stocks)[https://towardsdatascience.com/predicting-stock-prices-with-python-ec1d0c9bece1]
 
 ## Administration des ETF
 [lien](https://www.etf.com/publications/journalofindexes/joi-articles/2305.html): La création d'ETFs aux US. C'est bien détaillé et met en avant les points importants de la création de l'indice. 
