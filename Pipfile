@@ -1,7 +1,7 @@
 [[source]]
-name = "pypi"
-url = "https://pypi.org/simple"
+url = "https://pypi.org/simple/"
 verify_ssl = true
+name = "pypi"
 
 [dev-packages]
 
@@ -23,6 +23,7 @@ selenium = "*"
 urllib = "*"
 mpl-finance = {file = "https://github.com/matplotlib/mpl_finance/archive/master.zip"}
 tkinter = "*"
+mplfinance = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
